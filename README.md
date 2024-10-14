@@ -74,7 +74,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
     ```bash
     composer require livewire/livewire
     ```
-. **Inicie o servidor de desenvolvimento:**
+8. **Inicie o servidor de desenvolvimento:**
     ```bash
     php artisan serve
     ```
